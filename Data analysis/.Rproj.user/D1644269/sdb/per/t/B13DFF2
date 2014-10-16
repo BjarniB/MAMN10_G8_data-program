@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1410689097315.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B13DFF2",
+    "lastKnownWriteTime" : 140205185463592,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "asas.push.1",
+        "contentUrl" : "content?title=asas.push.1&file=ace07af01d514f708f7aa15d02677c0e.htm",
+        "displayedObservations" : 174,
+        "displayedVariables" : 3,
+        "totalObservations" : 174,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
