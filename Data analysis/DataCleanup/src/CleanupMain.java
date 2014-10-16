@@ -92,12 +92,16 @@ public class CleanupMain {
 		MovingAverage ma = new MovingAverage(r.getX());
 		ma.parseAverages();
 
+		
+		
 		Tops t = new Tops(r.getT(), ma.getMovingAverageX());
 
 		// t.setAcceptancePercent(0.2);
 
 		ArrayList<Integer> indexes = t.getTopsIndexes();
+		ArrayList<Integer> otherIndexes = t.get17Tops();
 		indexes.trimToSize();
+		otherIndexes.trimToSize();
 		
 		Curves c = new Curves(ma.getMovingAverageX(),indexes,t.getAcceptanceBottom());
 		try {

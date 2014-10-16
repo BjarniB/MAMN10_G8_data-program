@@ -10,8 +10,8 @@ public class Curves {
 	
 	private int[][] startStopIndexes;
 	
-	private final int LEFT = -1;
-	private final int RIGHT = 1;
+	public static final int LEFT = -1;
+	public static final int RIGHT = 1;
 	
 	ArrayList<ArrayList<Double>> curves;
 	
