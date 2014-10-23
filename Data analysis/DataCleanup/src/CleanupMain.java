@@ -88,22 +88,22 @@ public class CleanupMain {
 		}catch (java.lang.ArrayIndexOutOfBoundsException e){
 			System.out.println("***problem: " + sourcefile);
 		}
+		
+		Writer w = new Writer();
 
 		MovingAverage ma = new MovingAverage(r.getX());
 		ma.parseAverages();
-
-		
 		
 		Tops t = new Tops(r.getT(), ma.getMovingAverageX());
 
 		// t.setAcceptancePercent(0.2);
 
-		ArrayList<Integer> indexes = t.getTopsIndexes();
-		ArrayList<Integer> otherIndexes = t.get17Tops();
+		ArrayList<Integer> indexes = t.get17Tops();
 		indexes.trimToSize();
-		otherIndexes.trimToSize();
 		
-		Curves c = new Curves(ma.getMovingAverageX(),indexes,t.getAcceptanceBottom());
+		// TODO test every step from this point on with otherIndexes that used the get17Tops method
+		Curves c = new Curves(ma.getMovingAverageX(),indexes, t.getAcceptanceBottom());
+		
 		try {
 			c.parseCurves();
 		} catch(java.lang.IndexOutOfBoundsException e){
@@ -113,11 +113,14 @@ public class CleanupMain {
 		ArrayList<ArrayList<Double>> curves = c.getCurvesList();
 		int[][] startStop = c.getStartStop();
 		
+		
 		Scaling scal = new Scaling(curves, r.getT(), startStop);
 		scal.scaleCurves();
 
+		
 		curves = scal.getCurves();
 		ArrayList<ArrayList<Double>> times = scal.getTimes();
+
 		
 		AverageCurve avg= new AverageCurve(curves, times);
 		avg.average();
@@ -126,7 +129,7 @@ public class CleanupMain {
 		l.putLongestFirst();
 		ArrayList<Double> lT = l.getLongestTime();
 		
-		Writer w = new Writer();
+
 		/*
 		w.writeToFile(
 				r.getFirstLine(),
