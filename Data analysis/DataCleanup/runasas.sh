@@ -12,4 +12,9 @@ do
 	java CleanupMain -s "$f"
 	#echo $f
 done
+cd ../rawdata/Asas
+mv *.csv ../../humpfiles/Asas
+cd ../../humpfiles/Asas
+ls > dir.txt
+sed -i "" '$ d' dir.txt
 IFS=$SAVEIFS
