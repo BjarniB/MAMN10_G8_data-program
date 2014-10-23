@@ -2,34 +2,14 @@
 File read
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_point3_axel_raw.txt
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull21_armbage_raw.txt
+***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Asas/Asas_pull21_armbage_raw.txt
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull21_axel_raw.txt
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull21_hand_raw.txt
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull31_axel_raw.txt
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull32_armbage_raw.txt
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull32_axel_raw.txt
-/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
-File read
-***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Trond/trond_pull32_hand_raw.txt
+***problem: /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/rawdata/Asas/Asas_pull21_axel_raw.txt
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
@@ -64,3 +44,18 @@ File read
 File read
 /Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
 File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
+File read
+/Users/trondarildtjstheim/Documents/Master CogSci/Neuro-modelling, cognitive robotics & agents /Project - robot animation/MAMN10_G8_data-program/Data analysis/DataCleanup/bin
