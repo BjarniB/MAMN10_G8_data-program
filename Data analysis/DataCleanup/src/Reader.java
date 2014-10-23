@@ -56,6 +56,8 @@ public class Reader {
 		System.out.println("File read");
 	}
 	
+	//TODO add method for handling files with Esponentials in data file, "1,978173E2" = 197.8173
+	
 	public ArrayList<Double> getX(){
 		return x;
 	}
