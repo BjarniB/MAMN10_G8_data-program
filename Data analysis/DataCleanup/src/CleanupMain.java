@@ -122,8 +122,8 @@ public class CleanupMain {
 		ArrayList<ArrayList<Double>> times = scal.getTimes();
 
 		
-		AverageCurve avg= new AverageCurve(curves, times);
-		avg.average();
+		//AverageCurve avg= new AverageCurve(curves, times);
+		//avg.average();
 		
 		Longest l = new Longest(curves, times);
 		l.putLongestFirst();
