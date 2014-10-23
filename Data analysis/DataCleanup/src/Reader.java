@@ -46,17 +46,28 @@ public class Reader {
 			String line = scan.nextLine();
 			String[] split = line.split("\t");
 			
-			double tc = Double.parseDouble(split[0]);
+			double tc = parseDouble(split[0]);
 			t.add(tc);
 			
-			double xc = Double.parseDouble(split[1]);
+			double xc = parseDouble(split[1]);
 			x.add(xc);
 		}
 		
 		System.out.println("File read");
 	}
 	
-	//TODO add method for handling files with Esponentials in data file, "1,978173E2" = 197.8173
+	//Parser method for handling special cases of exponentials included in data ("1,8391737E2")
+	private double parseDouble(String line){
+		line = line.replaceAll(",", ".");
+		if(line.contains("E")){
+			String [] split = line.split("E");
+			int exp = Integer.parseInt(split[1]);
+			return (Double.parseDouble(split[0]) * Math.pow(10, exp));
+			
+		}else{
+			return Double.parseDouble(line);
+		}
+	}
 	
 	public ArrayList<Double> getX(){
 		return x;
